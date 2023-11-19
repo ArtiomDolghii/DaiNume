@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+}
+h1 {
+  text-align: center;
+  color: red;
+}
+.head1 {
+  background-color: aqua;
+}
+#head2 {
+  background-color: purple;
+  color: yellow;
+}
