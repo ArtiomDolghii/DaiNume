@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+div a{
+    background-color: antiquewhite;
+    padding: 20px;
+}
+a > h1 {
+    background-color: darkgreen;
+    color: red;
+}
+a + a {
+    background-color: orange;
+}
