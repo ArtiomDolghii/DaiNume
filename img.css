@@ -42,9 +42,11 @@ height: 100px;
 
 }
 img{
-  width: 100%;
+  width: 100px;
 
-filter: grayscale (50%) invert (60%);
+  filter: grayscale (50%);
+  filter: invert (60%);
+  filter: sepia (10%);
 }
 
 
